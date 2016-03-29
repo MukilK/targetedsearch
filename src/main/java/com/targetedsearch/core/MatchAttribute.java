@@ -8,6 +8,7 @@ public class MatchAttribute {
   private int weight;
   private String description;
   private int id;
+  private String hashTag;
   
   
   public int getWeight() {
